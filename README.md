@@ -19,3 +19,7 @@ https://www.rmsb.u-bordeaux.fr/nextcloud/index.php/s/6oMjTeDtmREpMgC
 #### Visualisation :
 - Mango : http://ric.uthscsa.edu/mango/
 - FSLEYES : https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes#Install_standalone_build_.28recommended.29
+
+## python module 
+- NIPY
+- nilearn
