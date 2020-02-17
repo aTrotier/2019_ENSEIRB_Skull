@@ -1,0 +1,8 @@
+tf-nightly
+tfa-nightly
+jupyterlab
+nibabel
+sklearn
+matplotlib
+pydot
+graphviz
